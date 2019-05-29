@@ -21,9 +21,11 @@
         <module>baseimage-graalvm</module>
         <module>baseimage-openjdk8</module>
         <module>baseimage-openjdk11</module>
+        <module>baseimage-openjdk11-openj9</module>
         <module>baseimage-graalvm-tomcat8</module>
         <module>baseimage-openjdk8-tomcat8</module>
         <module>baseimage-openjdk11-tomcat8</module>
+        <module>baseimage-openjdk11-openj9-tomcat8</module>
         <module>baseimage-apache</module>
     </modules>
 </project>
